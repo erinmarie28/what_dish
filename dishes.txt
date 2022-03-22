@@ -1,0 +1,60 @@
+Breakfast Burrito w/ Egg & Cheese|n|y|n|tortilla, egg, cheese|bacon, sausage, chorizo, avocado, spinach, egg white|15
+Ham & Cheese Sandwich|n|y|n|bread, ham, cheese|aioli, mayo, lettuce, avocado, spinach, lettuce, tomato|5
+Asian Ground Turkey w/ Broccoli Slaw|y|y|n|ground turkey, broccoli slaw, soy sauce, garlic, white pepper|sesame oil, garlic chili sauce, red pepper flake, ginger|20
+Spinach & Mushroom Omelette|y|y|n|egg, spinach, mushroom|cheese, black pepper, egg whites|15
+Quick Egg on Toast|y|y|n|egg, bread|butter, whole grain bread, sourdough, egg white, spinach|5
+Shrimp Tacos|y|y|n|tortilla, shrimp, cabbage slaw, greek yogurt, sriracha, lime juice, honey, olive oil, cumin, garlic powder, chili powder, salt, pepper|jalapeno, cilantro, lime|40
+Mushroom Tacos|y|y|n|tortilla, mushroom, cabbage slaw, greek yogurt, sriracha, lime juice, honey, olive oil, cumin, garlic powder, chili powder, salt, pepper|jalapeno, cilantro, lime|20
+Breakfast Tacos|n|y|n|tortilla, egg, cheese|bacon, sausage, chorizo, avocado, spinach, egg white|15
+Breakfast Sandwich|n|y|n|bread, egg, cheese|bacon, sausage, chorizo, avocado, spinach, egg white|15
+Thai Red Curry|y|y|n|chicken, red pepper paste, fish sauce, ginger, garlic, white pepper, sesame oil, lime juice, broccoli, bell pepper, mushroom|jalapeno, cilantro, green bean, zucchini, rice, noodle, lime|40
+Pesto Pasta w/ Veggies|y|y|n|pasta, basil, garlic, olive oil, bell pepper, mushroom, salt, pepper|red pepper flake, zucchini, chicken, shrimp, butter|25
+Vegetarian Mexican Inspired Soup|y|y|n|zucchini, sweet potato, red lentils, bell pepper, black beans, corn, garlic, cumin, chili powder, turmeric, salt, pepper, water|jalapeno, poblano pepper, red lentils, butternut squash, chicken broth, chicken stock|40
+Mexican Inspired Soup|y|y|n|chicken, green dragon sauce, zucchini, sweet potato, red lentils, bell pepper, black beans, corn, garlic, cumin, chili powder, turmeric, salt, pepper, water|jalapeno, poblano pepper, red lentils, butternut squash, chicken broth, chicken stock|40
+Chicken, Mushroom & Broccoli Spaghetti Squash Casserole|y|y|n|chicken, mushroom, broccoli, spaghetti squash, mushroom soup, parmesan, garlic, basil, salt, pepper|oregano, red pepper flake, red bell pepper|60
+Vegetarian Verde Enchiladas|n|y|n|sweet potato, jalapeno, cream cheese, cheese, tortilla, poblano pepper, tomatillo, lime, garlic, cumin, chili powder, salt, pepper|spinach, bell pepper, lime juice|60
+Air Fryer Herbed Salmon|y|y|n|salmon, butter, garlic, dill, pepper, lemon|lemon juice, mayo, cayenne powder, tarragon, basil|15
+Mushroom Orzo|y|y|n|mushroom, orzo, milk, butter, parmesan, garlic, salt, pepper|red pepper flake, chicken|20
+Lo Mein|y|y|n|noodles, chicken, broccoli, bell pepper, mushroom, soy sauce, dark soy sauce, sesame oil, garlic, white pepper|green bean, carrot, lo mein sauce, shrimp, beef, tofu, chili garlic sauce, jalapeno|30
+Parmesan Green Beans|y|y|n|green bean, parmesan, butter, garlic, salt, pepper|bacon, red pepper flake|10
+Mashed Potatoes|n|y|n|potato, butter, salt, milk, white pepper|pepper, cream, sour cream|20
+Gluten Free Mac & Cheese|n|y|n|chickpea pasta, butter, milk, cheese, gluten free flour, salt, pepper|lentil pasta, quinoa pasta, brown rice pasta, gluten free pasta, cheese sauce, jalapeno, bacon, chicken, broccoli, garlic, bread crumbs, parmesan|40
+Mac & Cheese|n|y|n|pasta, butter, milk, cheese, flour, salt, pepper|cheese sauce, jalapeno, bacon, chicken, broccoli, garlic, bread crumbs, parmesan|40
+Chicken & Veggie Noodles|y|y|n|chicken, zucchini, parmesan, olive oil, garlic, basil, salt, pepper|butter, spaghetti squash, mozzarella, oregano, red pepper flake|30
+Chicken Pot Pie|n|y|n|chicken, chicken broth, vegetable medley, potato, milk, flour, puff pastry, thyme, garlic, salt|chicken stock, red pepper flake, mushroom|60
+Roasted Acorn Squash|y|y|n|acorn squash, olive oil, garlic, tarragon, salt, pepper|butter, parmesan|30
+Blanched Broccolini|y|y|n|broccolini, olive oil, garlic, salt, pepper|red pepper flake|15
+Roasted Asparagus|y|y|n|asparagus, olive oil, garlic, salt, pepper|red pepper flake, parmesan|25
+Blackened Tilapia|y|y|n|tilapia, mayo, hot sauce, lemon juice, blackened seasoning mix|olive oil, butter|25
+Tilapia Tacos|y|y|n|tilapia, tortilla, garlic, cumin, chili powder, salt, pepper, cabbage slaw, greek yogurt, sriracha, lime juice, honey, olive oil, cumin, garlic powder, chili powder, salt, pepper|jalapeno, cilantro, lime|30
+Chicken Fajitas|n|y|n|chicken, tortilla, bell pepper, cheese, lime juice, cumin, garlic powder, chili powder, salt, pepper|jalapeno, cilantro, onion|30
+Air Fryer Garlic & Herb Potatoes|n|y|n|potato, olive oil, garlic, oregano, basil, parsley, salt, pepper|red pepper flake, rosemary, truffle oil, parmesan, sweet potato|20
+Smashed Potatoes|n|y|n|potato, olive oil, salt|truffle oil, garlic, parmesan, red pepper flake|40
+Hash Browns|n|y|n|potato, oil, salt||20
+Baked Potato|n|y|n|potato, butter, salt|cheese, sour cream, bacon, chives|10
+French Fries|n|y|n|potato, oil, salt||20
+Fried Chicken Sandwich|n|y|n|chicken thigh, bun, buttermilk, salt, pepper, white pepper, garlic, hot sauce, cayenne powder, oil, flour, pickle juice, mayo|pickle, pickled jalapeno, cheese, honey, hot honey, soy sauce, chili garlic sauce, mushroom powder, peperoncini, aioli, butter|60
+Grilled Chicken Sandwich|y|y|n|chicken, bun, olive oil, garlic, salt, pepper|cheese, lettuce, spinach, bell pepper, sweet pepper, jalapeno, arugula|25
+Chicken, Prosciutto & Arugula Panini|n|y|n|sliced chicken, prosciutto, arugula, mayo, bread, butter|aioli, honey, sliced almonds|15
+Beer Bread|n|y|n|beer, flour, salt, honey, butter|jalapeno, cheese, bacon|60
+French Toast|n|n|y|bread, egg, milk, cinnamon, vanilla, maple syrup, sugar|any fruit, whipped cream, Nutella, peanut butter, almond butter, powdered sugar|20
+Air Fryer Donuts|n|n|y|biscuit dough, cinnamon, sugar, butter|powdered sugar, milk, icing, chocolate chips, cocoa powder|20
+Salmon & Zucchini Fritters|y|y|n|canned salmon, zucchini, egg, bread crumb, garlic, salt, pepper, dill, mayo, oil|chive, red pepper flake, cayenne, lemon juice|20
+Roasted Veggies (Bell Pepper, Zucchini, Mushroom)|y|y|n|bell pepper, zucchini, mushroom, oregano, garlic, salt, pepper, olive oil|parmesan, red pepper flake, basil|25
+Sautéd Mushrooms|y|y|n|mushroom, butter, garlic, salt, pepper|red pepper flake, olive oil|10
+Roasted Chicken Legs|y|y|n|chicken legs, butter, garlic, thyme, lemon juice, salt, pepper|rosemary, red pepper flake, parsley, lemon|60
+Roasted Chicken Thighs|y|y|n|chicken thigh, lemon juice, garlic, salt, pepper, mayo, peperoncini juice, oregano|mushroom powder, red pepper flake|35
+Best Chicken Breast Ever|y|y|n|chicken breast, lemon juice, garlic, salt, pepper, mayo, peperoncini juice, oregano, mushroom powder, cayenne|aioli, basil|30
+Roasted Asian Chicken Thighs|y|y|n|chicken thigh, soy sauce, garlic, chili garlic sauce, honey, white pepper, oyster sauce, sesame oil, chili oil||35
+Vietnamese Shrimp Spring Rolls w/ Peanut Sauce|y|y|n|shrimp, rice paper, vermicelli noodle, lettuce, carrot, cucumber, mint, cilantro, peanut butter, rice vinegar, sesame oil, garlic, water|avocado, jalapeno|20
+Shrimp & Garlic Butter Sauce|n|y|n|shrimp, garlic, butter, lemon juice, pepper|red pepper flake|15
+Salmon Bowl|y|y|n|salmon, white rice, cucumber, avocado, soy sauce, garlic, lemon juice, white pepper, sriracha, mayo|carrot, broccoli, jalapeno, butter|35
+Avocado Toast|y|y|n|avocado, bread|garlic, salt, pepper, red pepper flake, lemon juice, prosciutto, smoked salmon, shaved parmesan|10
+Smoked Salmon & Havarti Flatbread|n|y|n|flatbread, havarti, olive oil, garlic, dill, smoked salmon|jalapeno, arugula, cucumber, avocado, peperoncini|15
+Mushroom Flatbread|n|y|n|flatbread, mushroom, mozzarella, olive oil, garlic|parmesan, truffle oil, red pepper flake|15
+Prosciutto & Arugula Flatbread|n|y|n|flatbread, mozzarella, olive oil, garlic, prosciutto, arugula|parmesan, red pepper flake, peperoncini|15
+Pizza Bread|n|y|n|bread dough, pepperoni, mozzarella, parmesan, garlic, parsley, butter|marinara|30
+Mushroom & Cheese Biscuit Puffs|n|y|n|biscuit dough, mushroom, cream cheese, mozzarella, parmesan, garlic, salt, pepper, red pepper flake||30
+Prosciutto Wrapped Asparagus|y|y|n|asparagus, prosciutto, olive oil, garlic, salt, pepper|lemon juice|25
+Pepper Jam & Cream Cheese Pastries|n|y|n|pepper jam, cream cheese, cheese, garlic powder, puff pastry, egg||20
+Jalapeño &  Cream Cheese Pastries|n|y|n|jalapeno, cream cheese, cheese, garlic powder, puff pastry, egg||20
